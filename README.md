@@ -2,7 +2,7 @@
 
 ## Conecte-se comigo:
 [![Linkedin Badge](https://img.shields.io/badge/-@adrianmouzinho-000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adrianmouzinho/)](https://www.instagram.com/adrianmouzinho/)
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-mouzinho-30a125211/)](https://www.linkedin.com/in/adrian-mouzinho-30a125211/)
+[![Linkedin Badge](https://img.shields.io/badge/-Adrian%20Mouzinho-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-mouzinho-30a125211/)](https://www.linkedin.com/in/adrian-mouzinho-30a125211/)
 [![Gmail Badge](https://img.shields.io/badge/-adrianmouzinhopro@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianmouzinhopro@gmail.com)](mailto:adrianmouzinhopro@gmail.com)
 
 ## Sobre mim:

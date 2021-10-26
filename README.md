@@ -14,6 +14,8 @@
  <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
 </table>
 
+<br />
+
 <!-- IMAGEM -->
 <img
  src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="marcelo-rafael github stats"
@@ -21,53 +23,26 @@
  align="right"
 />
 
-<br />
-<br />
-<br />
-<br />
-
-
-<br />
-
-<br />
-
 <!-- About -->
 
-🚀 About me
+### 🚀 About me
 
 <p align="left">
-
-  💻 Front-end developer React.js/Next.js
-
+  💻 Computer technician
 </p>
-
 <p align="left">
-
-  📌 I live in São Paulo - BR
-
+  📌 I live in Imperatriz, MA - BR
 </p>
-
 <p align="left">
-
- 🎓👨‍🎓 Graduated in Systems Analysis and Development
-
+ 🎓👨‍🎓 Graduating in Cience Computer
 </p>
-
 <p align="left">
-
-  👨‍🎓 Student at Bootcamp Ignite on the trail of React.js, React Native and Node.js
-
+ 🤓 I'm currently focused on the front-end learning the technologies: HTML, CSS, Javascript, React.js, TypeScript...
 </p>
 
-<p align="left">
+#### 💬 Any help or tips is always welcome!
 
- 🤓 I'm currently focused on the front-end learning the technologies: React.js, TypeScript, Next.js, and Styled-Components...
-
-</p>
-
-💬 Any help or tips is always welcome!
-
-<p align="left">❤️ **interests:** ⚽️ play football, 📺 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games.</p>
+<p align="left">❤️ **interests:** 🏐 play volleyball, 📺 watch movies, series and animes, 🎶 dance, 🎨 create drawings.</p>
 
 
 ### 📬 Contact
@@ -77,13 +52,8 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AdrianMouzinho)
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adrianmouzinhopro@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AdrianMouzinho)
-[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/AdrianMouzinho)
-
-## Conecte-se comigo:
-[![Linkedin Badge](https://img.shields.io/badge/-@adrianmouzinho-000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adrianmouzinho/)](https://www.instagram.com/adrianmouzinho/)
-[![Linkedin Badge](https://img.shields.io/badge/-Adrian%20Mouzinho-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-mouzinho-30a125211/)](https://www.linkedin.com/in/adrian-mouzinho-30a125211/)
-[![Gmail Badge](https://img.shields.io/badge/-adrianmouzinhopro@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianmouzinhopro@gmail.com)](mailto:adrianmouzinhopro@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianmouzinho/)
+[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-mouzinho-30a125211/)
 
 ## Sobre mim:
 Olá, meu nome é **Adrian Mouzinho**, sou do Brasil, sou um estudante de **Ciência da Computação** que sonha em trabalhar com Programação Web, especialmente a parte front-end

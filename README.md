@@ -14,7 +14,7 @@
  <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
 </table>
 
-<br />
+
 
 <!-- IMAGEM -->
 <img

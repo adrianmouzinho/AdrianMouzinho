@@ -14,8 +14,6 @@
  <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
 </table>
 
-
-
 <!-- IMAGEM -->
 <img
  src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="marcelo-rafael github stats"
@@ -26,6 +24,7 @@
 <br />
 <br />
 
+<!-- Contact -->
 ### 📬 Contact
 
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
@@ -38,11 +37,12 @@
 
 <br />
 
-
 <!-- About -->
-
 ### 🚀 About me
 
+<p align="left">
+  🙅🏾‍♂️ Full name: Adrian Mouzinho de Brito
+</p>
 <p align="left">
   💻 Computer technician
 </p>

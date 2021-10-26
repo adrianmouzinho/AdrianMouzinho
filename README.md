@@ -37,7 +37,7 @@
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-mouzinho-30a125211/)
 
 <br />
-<br />
+
 
 <!-- About -->
 

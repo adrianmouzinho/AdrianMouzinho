@@ -14,6 +14,28 @@
  <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
 </table>
 
+<!-- IMAGEM -->
+<img
+ src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="marcelo-rafael github stats"
+ width="50%"
+ align="right"
+/>
+
+<br />
+<br />
+<br />
+<br />
+
+📬 Contact
+
+[![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1_uSlHoRb0NInNBldTpy_5xYHkeKk-m09/view?usp=sharing)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marcelo-rafael)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelo.rafael.goncalves@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.r.goncalves/)
+[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-rafael-gonçalves)
+
 ## Conecte-se comigo:
 [![Linkedin Badge](https://img.shields.io/badge/-@adrianmouzinho-000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adrianmouzinho/)](https://www.instagram.com/adrianmouzinho/)
 [![Linkedin Badge](https://img.shields.io/badge/-Adrian%20Mouzinho-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-mouzinho-30a125211/)](https://www.linkedin.com/in/adrian-mouzinho-30a125211/)

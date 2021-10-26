@@ -26,6 +26,50 @@
 <br />
 <br />
 
+
+<br />
+
+<br />
+
+<!-- About -->
+
+🚀 About me
+
+<p align="left">
+
+  💻 Front-end developer React.js/Next.js
+
+</p>
+
+<p align="left">
+
+  📌 I live in São Paulo - BR
+
+</p>
+
+<p align="left">
+
+ 🎓👨‍🎓 Graduated in Systems Analysis and Development
+
+</p>
+
+<p align="left">
+
+  👨‍🎓 Student at Bootcamp Ignite on the trail of React.js, React Native and Node.js
+
+</p>
+
+<p align="left">
+
+ 🤓 I'm currently focused on the front-end learning the technologies: React.js, TypeScript, Next.js, and Styled-Components...
+
+</p>
+
+💬 Any help or tips is always welcome!
+
+<p align="left">❤️ **interests:** ⚽️ play football, 📺 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games.</p>
+
+
 ### 📬 Contact
 
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)

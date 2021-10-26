@@ -4,7 +4,7 @@
   Welcome to my Profile!!!
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdrianMouzinho&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AdrianMouzinho&color=yellow&label=profile+views" alt="profile views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AdrianMouzinho.AdrianMouzinho" alt="visitors">
  </p>
 </h1>

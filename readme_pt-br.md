@@ -4,8 +4,8 @@
   Seja bem-vindo(a) ao meu perfil!!!
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdrianMouzinho&color=yellow" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdrianMouzinho.AdrianMouzinho" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=AdrianMouzinho&color=yellow" alt="visualizações" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdrianMouzinho.AdrianMouzinho" alt="visitantes">
  </p>
 </h1>
 
